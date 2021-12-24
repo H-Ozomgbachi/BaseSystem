@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>Weenosoft.Algorithms.BaseSystem</PackageId>
+    <Authors>Weenosoft</Authors>
+    <Description>This package allows you to convert any number from one base system to another.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>
