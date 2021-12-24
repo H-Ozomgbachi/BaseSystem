@@ -2,7 +2,7 @@
 
 namespace BaseSystem
 {
-    public class BaseSystem
+    public static class BaseSystem
     {
         public static string DecimalToNonHexaBase(int decimalNumber, int newBase)
         {
